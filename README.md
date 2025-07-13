@@ -1,18 +1,17 @@
-# 💰 Personal Finance Tracker (SQL)
+# Personal Finance Tracker (SQL)
 A lightweight SQL-based system to track your personal income, expenses, and monthly balance. Ideal for practicing SQL skills with budget tracking logic.
 
-## 🧾 Features
+## Features
 
-- 👤 User & Category schema
-- 💸 Add and categorize expenses
-- 💰 Log income sources
-- 📊 Query for monthly summaries
-- 📉 Track category-wise spending
-- 📈 View net monthly balance
+- User & Category schema
+- Add and categorize expenses
+- Log income sources
+- Query for monthly summaries
+- Track category-wise spending
+- View net monthly balance
 
----
 
-## 📁 Project Structure
+## Project Structure
 
 | File | Description |
 |------|-------------|
@@ -21,9 +20,8 @@ A lightweight SQL-based system to track your personal income, expenses, and mont
 | `queries.sql` | Gets monthly totals and category-wise expenses |
 | `views.sql` | View to calculate net monthly balance |
 
----
 
-## 🛠️ Tools
+## Tools
 
 - MySQL Workbench 
 - GitHub for version control
